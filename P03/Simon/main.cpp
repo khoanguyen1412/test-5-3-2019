@@ -7,6 +7,7 @@ Controls:
 	Sit: Down arrow
 	Stand-Attack: X
 	Sit-Attack: Down arrow + X
+	Chao cac ban!
 ================================================================ */
 //Nguyen hong khoa
 #include <windows.h>
