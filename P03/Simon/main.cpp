@@ -8,7 +8,7 @@ Controls:
 	Stand-Attack: X
 	Sit-Attack: Down arrow + X
 ================================================================ */
-
+//Nguyen hong khoa
 #include <windows.h>
 #include <d3d9.h>
 #include <d3dx9.h>
